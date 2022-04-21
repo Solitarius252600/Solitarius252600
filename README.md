@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Game
+
 <!--
 **Solitarius252600/Solitarius252600** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
