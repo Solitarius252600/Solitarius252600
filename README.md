@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Game
+[![trophy](https://github-profile-trophy.vercel.app/?username=Solitarius252600)](https://github.com/Solitarius252600/github-profile-trophy)
 
 <!--
 **Solitarius252600/Solitarius252600** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
